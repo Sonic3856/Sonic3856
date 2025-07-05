@@ -1,7 +1,5 @@
 ### 👋 안녕하세요!
-<br/>
 이제라도 시작하기!
-<br/>
 
 ---
 ### 💻 기술 스택 (Tech Stack)
@@ -13,7 +11,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </p>
-<br/>
 
 ---
 ### 🌱 현재 학습하고 있는 것들 (I'm currently learning...)
@@ -23,14 +20,12 @@
 - **LoRA(Low-Rank Adaptation)**
   - 특정 캐릭터나 화풍을 학습시키기 위해 LoRA 파인튜닝을 직접 진행하고 있습니다.
   - 적은 데이터로도 효율적인 학습이 가능한지, 다양한 파라미터를 조절하며 테스트 중입니다.
-<br/>
 
 ---
 ### 📫 연락처 (Contact)
 
 - **Discord**: sonic3856
 - **Email**: goldbell3856@gmail.com
-<br/>
 
 ---
 ### 📊 GitHub 통계 (Stats)
